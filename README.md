@@ -1,6 +1,6 @@
 
+![screen-recording](https://user-images.githubusercontent.com/96579311/148106687-e4e59ae5-235c-49e9-a9cd-915ddb82920f.gif)
 
-https://user-images.githubusercontent.com/96579311/148105908-9f6a1e65-98c1-4c51-b086-f26844ddab27.mp4
 
 
 ## Setup
