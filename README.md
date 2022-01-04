@@ -9,7 +9,7 @@
     $pip install -r requirements.txt
     ```
 
-- After successful installation execute the following commands from <h3>todo</h3> directory:
+- After successful installation execute the following commands from <strong>todo</strong> directory:
 
     ```bash
     $python manage.py migrate
